@@ -66,11 +66,5 @@ class TestLogin(unittest.TestCase):
 
 
 unittest.main()
-#driver = webdriver.Chrome()
-#driver.get("https://demoqa.com/")
-#driver.find_element_by_name("username").send_keys("resti")
-#driver.quit()
 
-#join now
-#driver.find_element_by_class("home-banner").click()
 
